@@ -69,4 +69,26 @@ console.log (divisaointeira);
 var potenciacao = 2**10;
 console.log (potenciacao);
 
+//Valores relacionais
+var maiorQue = 5 > 2
+console.log (maiorQue);
+
+var menorQue = 5 < 2
+console.log (menorQue);
+
+var maiorOuIgual = 5 >= 2;
+console.log (maiorOuIgual);
+
+var menorOuIgual = 5 <= 2;
+console.log (menorOuIgual);
+
+//Operadores lógicos
+var e = true && false;
+console.log(e);
+
+var ou = true || false;
+console.log(ou);
+
+var nao = !true;
+console.log(nao);
 
